@@ -1,7 +1,7 @@
 <div class="navbar bg-base-100">
 	<div class="navbar-start">
 		<a href="/" class="btn btn-ghost normal-case text-xl font-bold p=10 gap-2">
-			My Viral DB
+			Viral Tropism DB
 			<svg
 				xmlns="http://www.w3.org/2000/svg"
 				class="icon icon-tabler icon-tabler-virus-search"
@@ -67,6 +67,7 @@
 				</ul>
 			</li>
 			<li><a href="/about">About</a></li>
+			<li><a href="/contact">Contact Us</a></li>
 		</ul>
 	</div>
 	<div class="navbar-end">
