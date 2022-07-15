@@ -30,42 +30,8 @@
 	</div>
 	<div class="navbar-center hidden lg:flex">
 		<ul class="menu menu-horizontal p-0 gap-2">
-			<li tabindex="0">
-				<!-- svelte-ignore a11y-missing-attribute -->
-				<a>
-					Browse
-					<svg
-						class="fill-current"
-						xmlns="http://www.w3.org/2000/svg"
-						width="20"
-						height="20"
-						viewBox="0 0 24 24"
-						><path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z" /></svg
-					>
-				</a>
-				<ul class="p-2 bg-base-100">
-					<li><a>Submenu 1</a></li>
-					<li><a>Submenu 2</a></li>
-				</ul>
-			</li>
-			<li tabindex="0">
-				<!-- svelte-ignore a11y-missing-attribute -->
-				<a>
-					Search
-					<svg
-						class="fill-current"
-						xmlns="http://www.w3.org/2000/svg"
-						width="20"
-						height="20"
-						viewBox="0 0 24 24"
-						><path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z" /></svg
-					>
-				</a>
-				<ul class="p-2 bg-base-100">
-					<li><a>Submenu 1</a></li>
-					<li><a>Submenu 2</a></li>
-				</ul>
-			</li>
+			<li><a href="/search">Search</a></li>
+			<li><a href="/advanced_search">Advanced Search</a></li>
 			<li><a href="/about">About</a></li>
 			<li><a href="/contact">Contact Us</a></li>
 		</ul>

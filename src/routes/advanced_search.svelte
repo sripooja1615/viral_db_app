@@ -1,5 +1,5 @@
 <svelte:head>
-<title>Contact</title>
+<title>Advanced Search</title>
 </svelte:head>
 
 <div class= "bg-secondary h-auto">
