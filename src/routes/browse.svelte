@@ -1,5 +1,5 @@
 <svelte:head>
-<title>Search</title>
+<title>Browse</title>
 </svelte:head>
 
 <div class= "bg-white h-screen">
