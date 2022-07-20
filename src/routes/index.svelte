@@ -6,8 +6,8 @@
     <div class="hero-overlay bg-opacity-60"></div>
     <div class="hero-content text-center text-neutral-content">
       <div class="">
-        <h1 class="mb-5 text-5xl font-bold">Welcome to the Viral Tropism Database</h1>
-        <p class="mb-5">To get started click here</p>
+        <h1 class="mb-5 text-5xl font-bold">Viral Tropism Database</h1>
+        <p class="mb-5 text-3xl">Welcome!</p>
       </div>
     </div>
   </div>
