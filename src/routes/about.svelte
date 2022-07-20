@@ -2,8 +2,7 @@
 <title>About</title>
 </svelte:head>
 
-<div class= "bg-secondary h-auto">
-<h1 class="text-center text-xl font-bold p-10">About</h1>
-<p  class="text-center p-10">This is about my viral db app</p>
+<div class= "bg-secondary h-screen p-10 text-center normal-case text-l font-bold">
+The Viral Tropism Database aims to provide the target user with all necessary data such as host and virus proteins that are involved in tropism, available 3-Dimensional structure in Protein Data Bank, as well as associated viral disease, at a single platform.
 </div>
 
